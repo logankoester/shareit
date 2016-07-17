@@ -1,8 +1,8 @@
 Package.describe({
-  summary: 'A meteor package that makes social sharing easy',
+  summary: 'Fork from joshowens:shareit',
   git: 'https://github.com/meteorclub/shareit',
-  version: '1.0.2',
-  name: "joshowens:shareit"
+  version: '1.0.3',
+  name: "ldk:shareit"
 });
 
 Package.onUse(function(api) {
