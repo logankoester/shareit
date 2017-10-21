@@ -1,7 +1,7 @@
 Package.describe({
   summary: 'Fork from joshowens:shareit',
   git: 'https://github.com/meteorclub/shareit',
-  version: '1.0.3',
+  version: '1.1.0',
   name: "ldk:shareit"
 });
 
